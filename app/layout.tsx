@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Raleway } from "next/font/google";
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider";
+import { ThemeProvider } from "@/components/ThemeProvider";
 
 const railway = Raleway({ subsets: ["latin"] });
 
@@ -29,7 +29,7 @@ export default function RootLayout({
         >
           {children}
         </ThemeProvider>
-      </body>{" "}
+      </body>
     </html>
   );
 }

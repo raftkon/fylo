@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import { ModeToggle } from "./mode-toggle";
+import { ModeToggle } from "./ModeToggle";
 
 export default function Header() {
   return (

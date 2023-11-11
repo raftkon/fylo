@@ -34,8 +34,8 @@ export default function FeaturesSection() {
             <div className="flex items-center justify-center h-24 mb-6">
               <Image
                 src="/images/icon-security.svg"
-                width={83}
-                height={78}
+                width={70}
+                height={88}
                 alt="features images"
               />
             </div>
@@ -56,8 +56,8 @@ export default function FeaturesSection() {
             <div className="flex items-center justify-center h-24 mb-6">
               <Image
                 src="/images/icon-collaboration.svg"
-                width={83}
-                height={78}
+                width={86}
+                height={71}
                 alt="features images"
               />
             </div>
@@ -77,8 +77,8 @@ export default function FeaturesSection() {
             <div className="flex items-center justify-center h-24 mb-6">
               <Image
                 src="/images/icon-any-file.svg"
-                width={83}
-                height={78}
+                width={91}
+                height={64}
                 alt="features images"
               />
             </div>

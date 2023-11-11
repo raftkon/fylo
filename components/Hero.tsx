@@ -11,6 +11,7 @@ export default function Hero() {
       {/* Hero container */}
       <div className="container mx-auto px-6 text-center md:pt-20 pb-52">
         <Image
+          priority
           src={"/images/illustration-intro.png"}
           alt="hero image"
           className="mx-auto"
