@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import ProductiveSection from "@/components/ProductiveSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
-import Header from "@/components/header";
+import Header from "@/components/Header";
 
 export default function Home() {
   return (
